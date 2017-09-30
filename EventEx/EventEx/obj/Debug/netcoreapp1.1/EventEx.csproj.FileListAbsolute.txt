@@ -1,0 +1,9 @@
+c:\users\judelu\documents\visual studio 2017\Projects\EventEx\EventEx\bin\Debug\netcoreapp1.1\EventEx.deps.json
+c:\users\judelu\documents\visual studio 2017\Projects\EventEx\EventEx\bin\Debug\netcoreapp1.1\EventEx.runtimeconfig.json
+c:\users\judelu\documents\visual studio 2017\Projects\EventEx\EventEx\bin\Debug\netcoreapp1.1\EventEx.runtimeconfig.dev.json
+c:\users\judelu\documents\visual studio 2017\Projects\EventEx\EventEx\bin\Debug\netcoreapp1.1\EventEx.dll
+c:\users\judelu\documents\visual studio 2017\Projects\EventEx\EventEx\bin\Debug\netcoreapp1.1\EventEx.pdb
+c:\users\judelu\documents\visual studio 2017\Projects\EventEx\EventEx\obj\Debug\netcoreapp1.1\EventEx.csprojResolveAssemblyReference.cache
+c:\users\judelu\documents\visual studio 2017\Projects\EventEx\EventEx\obj\Debug\netcoreapp1.1\EventEx.AssemblyInfo.cs
+c:\users\judelu\documents\visual studio 2017\Projects\EventEx\EventEx\obj\Debug\netcoreapp1.1\EventEx.dll
+c:\users\judelu\documents\visual studio 2017\Projects\EventEx\EventEx\obj\Debug\netcoreapp1.1\EventEx.pdb

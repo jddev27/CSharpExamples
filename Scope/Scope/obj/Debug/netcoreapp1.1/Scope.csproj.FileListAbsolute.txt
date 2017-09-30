@@ -1,0 +1,9 @@
+c:\users\judelu\documents\visual studio 2017\Projects\Scope\Scope\bin\Debug\netcoreapp1.1\Scope.deps.json
+c:\users\judelu\documents\visual studio 2017\Projects\Scope\Scope\bin\Debug\netcoreapp1.1\Scope.runtimeconfig.json
+c:\users\judelu\documents\visual studio 2017\Projects\Scope\Scope\bin\Debug\netcoreapp1.1\Scope.runtimeconfig.dev.json
+c:\users\judelu\documents\visual studio 2017\Projects\Scope\Scope\bin\Debug\netcoreapp1.1\Scope.dll
+c:\users\judelu\documents\visual studio 2017\Projects\Scope\Scope\bin\Debug\netcoreapp1.1\Scope.pdb
+c:\users\judelu\documents\visual studio 2017\Projects\Scope\Scope\obj\Debug\netcoreapp1.1\Scope.csprojResolveAssemblyReference.cache
+c:\users\judelu\documents\visual studio 2017\Projects\Scope\Scope\obj\Debug\netcoreapp1.1\Scope.AssemblyInfo.cs
+c:\users\judelu\documents\visual studio 2017\Projects\Scope\Scope\obj\Debug\netcoreapp1.1\Scope.dll
+c:\users\judelu\documents\visual studio 2017\Projects\Scope\Scope\obj\Debug\netcoreapp1.1\Scope.pdb

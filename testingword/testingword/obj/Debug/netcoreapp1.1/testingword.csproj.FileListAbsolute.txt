@@ -1,0 +1,9 @@
+c:\users\judelu\documents\visual studio 2017\Projects\testingword\testingword\bin\Debug\netcoreapp1.1\testingword.deps.json
+c:\users\judelu\documents\visual studio 2017\Projects\testingword\testingword\bin\Debug\netcoreapp1.1\testingword.runtimeconfig.json
+c:\users\judelu\documents\visual studio 2017\Projects\testingword\testingword\bin\Debug\netcoreapp1.1\testingword.runtimeconfig.dev.json
+c:\users\judelu\documents\visual studio 2017\Projects\testingword\testingword\bin\Debug\netcoreapp1.1\testingword.dll
+c:\users\judelu\documents\visual studio 2017\Projects\testingword\testingword\bin\Debug\netcoreapp1.1\testingword.pdb
+c:\users\judelu\documents\visual studio 2017\Projects\testingword\testingword\obj\Debug\netcoreapp1.1\testingword.csprojResolveAssemblyReference.cache
+c:\users\judelu\documents\visual studio 2017\Projects\testingword\testingword\obj\Debug\netcoreapp1.1\testingword.AssemblyInfo.cs
+c:\users\judelu\documents\visual studio 2017\Projects\testingword\testingword\obj\Debug\netcoreapp1.1\testingword.dll
+c:\users\judelu\documents\visual studio 2017\Projects\testingword\testingword\obj\Debug\netcoreapp1.1\testingword.pdb

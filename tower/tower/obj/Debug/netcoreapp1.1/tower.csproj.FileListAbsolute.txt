@@ -1,0 +1,9 @@
+c:\users\judelu\documents\visual studio 2017\Projects\tower\tower\bin\Debug\netcoreapp1.1\tower.deps.json
+c:\users\judelu\documents\visual studio 2017\Projects\tower\tower\bin\Debug\netcoreapp1.1\tower.runtimeconfig.json
+c:\users\judelu\documents\visual studio 2017\Projects\tower\tower\bin\Debug\netcoreapp1.1\tower.runtimeconfig.dev.json
+c:\users\judelu\documents\visual studio 2017\Projects\tower\tower\bin\Debug\netcoreapp1.1\tower.dll
+c:\users\judelu\documents\visual studio 2017\Projects\tower\tower\bin\Debug\netcoreapp1.1\tower.pdb
+c:\users\judelu\documents\visual studio 2017\Projects\tower\tower\obj\Debug\netcoreapp1.1\tower.csprojResolveAssemblyReference.cache
+c:\users\judelu\documents\visual studio 2017\Projects\tower\tower\obj\Debug\netcoreapp1.1\tower.AssemblyInfo.cs
+c:\users\judelu\documents\visual studio 2017\Projects\tower\tower\obj\Debug\netcoreapp1.1\tower.dll
+c:\users\judelu\documents\visual studio 2017\Projects\tower\tower\obj\Debug\netcoreapp1.1\tower.pdb

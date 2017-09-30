@@ -1,0 +1,9 @@
+c:\users\judelu\documents\visual studio 2017\Projects\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp1.1\AbstractClasses.deps.json
+c:\users\judelu\documents\visual studio 2017\Projects\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp1.1\AbstractClasses.runtimeconfig.json
+c:\users\judelu\documents\visual studio 2017\Projects\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp1.1\AbstractClasses.runtimeconfig.dev.json
+c:\users\judelu\documents\visual studio 2017\Projects\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp1.1\AbstractClasses.dll
+c:\users\judelu\documents\visual studio 2017\Projects\AbstractClasses\AbstractClasses\bin\Debug\netcoreapp1.1\AbstractClasses.pdb
+c:\users\judelu\documents\visual studio 2017\Projects\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp1.1\AbstractClasses.csprojResolveAssemblyReference.cache
+c:\users\judelu\documents\visual studio 2017\Projects\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp1.1\AbstractClasses.AssemblyInfo.cs
+c:\users\judelu\documents\visual studio 2017\Projects\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp1.1\AbstractClasses.dll
+c:\users\judelu\documents\visual studio 2017\Projects\AbstractClasses\AbstractClasses\obj\Debug\netcoreapp1.1\AbstractClasses.pdb

@@ -1,0 +1,9 @@
+c:\users\judelu\documents\visual studio 2017\Projects\Porperties\Porperties\bin\Debug\netcoreapp1.1\Porperties.deps.json
+c:\users\judelu\documents\visual studio 2017\Projects\Porperties\Porperties\bin\Debug\netcoreapp1.1\Porperties.runtimeconfig.json
+c:\users\judelu\documents\visual studio 2017\Projects\Porperties\Porperties\bin\Debug\netcoreapp1.1\Porperties.runtimeconfig.dev.json
+c:\users\judelu\documents\visual studio 2017\Projects\Porperties\Porperties\bin\Debug\netcoreapp1.1\Porperties.dll
+c:\users\judelu\documents\visual studio 2017\Projects\Porperties\Porperties\bin\Debug\netcoreapp1.1\Porperties.pdb
+c:\users\judelu\documents\visual studio 2017\Projects\Porperties\Porperties\obj\Debug\netcoreapp1.1\Porperties.csprojResolveAssemblyReference.cache
+c:\users\judelu\documents\visual studio 2017\Projects\Porperties\Porperties\obj\Debug\netcoreapp1.1\Porperties.AssemblyInfo.cs
+c:\users\judelu\documents\visual studio 2017\Projects\Porperties\Porperties\obj\Debug\netcoreapp1.1\Porperties.dll
+c:\users\judelu\documents\visual studio 2017\Projects\Porperties\Porperties\obj\Debug\netcoreapp1.1\Porperties.pdb
