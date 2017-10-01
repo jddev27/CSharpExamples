@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{3C0FE71E-E007-4388-AD49-7572CE51E543}|Default">
+  <MonoDevelop.Ide.ItemProperties.Extensibility PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Extensibility/DbMigrator.cs">
+    <Files>
+      <File FileName="Extensibility/Program.cs" Line="1" Column="1" />
+      <File FileName="Extensibility/FileLogger.cs" Line="1" Column="1" />
+      <File FileName="Extensibility/DbMigrator.cs" Line="1" Column="1" />
+      <File FileName="Extensibility/ConsoleLogger.cs" Line="1" Column="1" />
+      <File FileName="Extensibility/ILogger.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
